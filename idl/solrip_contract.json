@@ -1,0 +1,41 @@
+{
+  "address": "RiPnkGhwuYN7ET3aMuGUAdomE3CFxBPUSonXsJrW4HS",
+  "metadata": {
+    "name": "solrip_contract",
+    "version": "0.1.0",
+    "spec": "0.1.0",
+    "description": "Created with Anchor"
+  },
+  "instructions": [
+    {
+      "name": "init",
+      "discriminator": [
+        220,
+        59,
+        207,
+        236,
+        108,
+        250,
+        47,
+        100
+      ],
+      "accounts": [],
+      "args": []
+    },
+    {
+      "name": "solrip",
+      "discriminator": [
+        67,
+        7,
+        255,
+        68,
+        88,
+        118,
+        248,
+        19
+      ],
+      "accounts": [],
+      "args": []
+    }
+  ]
+}
